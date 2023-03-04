@@ -1,4 +1,4 @@
-![avatar](https://avatars.githubusercontent.com/u/89136657?v=4)
+![avatar](https://avatars.githubusercontent.com/u/57650911?v=4)
 
 # FullStack Web Developer
   I'm [**Imran Matano**](https://imran-matano.web.app),
