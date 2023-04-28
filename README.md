@@ -13,7 +13,7 @@
   | FrontEnd    | Server-side | Databases |
   |-------------|-------------|-----------|
   |Reactjs      |Nodejs       |MongoDB    |
-  |Bootstrap    |Expressjs    |Mysql      |
+  |Tailwindcss|Expressjs    |postgresql      |
   |HTML5,CSS,JS |Firebase     |           |
 
 
