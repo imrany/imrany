@@ -8,7 +8,7 @@
   Currently, am freelancing and contributing to open source stackups but my aim is to secure a job in any tech company.
   Feel free to message me on [whatsapp](https://wa.me/254734720752).
 
-Download my <a href="/resume.docx" download="imran's resume">resume</a>.
+Download my <a href="https://github.com/imrany/imrany/blob/main/resume.docx" download="imran's resume">resume</a>.
 
   # TechStacks 📚
   | FrontEnd    | Server-side | Databases |
