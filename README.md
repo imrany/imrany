@@ -6,8 +6,9 @@
   I've worked on different projects, frontend, backend and fullstack projects<br/>
   Feel free to check my public reposities.<br/>
   Currently, am freelancing and contributing to open source stackups but my aim is to secure a job in any tech company.
-  Feel free to message me on [whatsapp](https://wa.me/+254734720752).
+  Feel free to message me on [whatsapp](https://wa.me/254734720752).
 
+Download my <a href="/resume.docx" download="imran's resume">resume</a>.
 
   # TechStacks 📚
   | FrontEnd    | Server-side | Databases |
