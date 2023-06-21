@@ -3,12 +3,18 @@
 # FullStack Web Developer
   I'm [**Imran Matano**](https://imran-matano.web.app),
   I started my web development journey in 2019. I'm experienced fullstack web developer.  Currently, I've been freelancing and working on peoples' projects.
-  I've worked on different projects, frontend, backend and fullstack projects<br/>
-  Feel free to check my public reposities.<br/>
-  Currently, am freelancing and contributing to open source stackups but my aim is to secure a job in any tech company.
+  I've worked on different projects, frontend, backend and fullstack projects
+  
+
+
+  Feel free to check my public reposities.
+  
+
+
+  Currently, I am contributing to open source projects.
   Feel free to message me on [whatsapp](https://wa.me/254734720752).
 
-Download my <a href="https://github.com/imrany/imrany/blob/main/resume.docx" download="imran's resume">resume</a>.
+Download my <a href="https://github.com/imrany/imrany/blob/main/resume.doc" download="imran's resume">resume</a>.
 
   # TechStacks 📚
   | FrontEnd    | Server-side | Databases |
@@ -22,7 +28,7 @@ Download my <a href="https://github.com/imrany/imrany/blob/main/resume.docx" dow
 
 * View my [Portfolio Website](https://imran-matano.web.app)
 * Message me on [Whatsapp](https://wa.me/+254734720752)
-* Hire me [Call](tel:0734720752)
+* Hire me <a href="tel:0734720752">Call</a>
 * Follow me on [Twitter](https://twitter.com/matano_imran)
 * Follow me on [Instagram](https://instagram.com/imrany00)
 * Stay in touch [Email](mailto:imranmat254@gmail.com)
