@@ -24,7 +24,10 @@ Download my <a href="https://github.com/imrany/imrany/blob/main/resume.doc" down
   |HTML5,CSS,JS |Firebase     |           |
 
 
-# Social Media Links
+<details>
+  <summary>
+    <h1>Social Media Links</h1>
+  </summary>
 
 * View my [Portfolio Website](https://imran-matano.web.app)
 * Message me on [Whatsapp](https://wa.me/+254734720752)
@@ -32,3 +35,5 @@ Download my <a href="https://github.com/imrany/imrany/blob/main/resume.doc" down
 * Follow me on [Twitter](https://twitter.com/matano_imran)
 * Follow me on [Instagram](https://instagram.com/imrany00)
 * Stay in touch [Email](mailto:imranmat254@gmail.com)
+
+</details>
