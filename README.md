@@ -14,7 +14,7 @@
   Currently, I am contributing to open source projects.
   Feel free to message me on [whatsapp](https://wa.me/254734720752).
 
-Download my <a href="https://github.com/imrany/imrany/blob/main/resume.doc" download="imran's resume">resume</a>.
+Download my <a href="https://github.com/imrany/imrany/blob/main/Resume.pdf" download="imran's resume">resume</a>.
 
   # TechStacks 📚
   | FrontEnd    | Server-side | Databases |
@@ -24,10 +24,7 @@ Download my <a href="https://github.com/imrany/imrany/blob/main/resume.doc" down
   |HTML5,CSS,JS |Firebase     |           |
 
 
-<details>
-  <summary>
-    <h1>Social Media Links</h1>
-  </summary>
+# Social Media Links
 
 * View my [Portfolio Website](https://imran-matano.web.app)
 * Message me on [Whatsapp](https://wa.me/+254734720752)
@@ -35,5 +32,3 @@ Download my <a href="https://github.com/imrany/imrany/blob/main/resume.doc" down
 * Follow me on [Twitter](https://twitter.com/matano_imran)
 * Follow me on [Instagram](https://instagram.com/imrany00)
 * Stay in touch [Email](mailto:imranmat254@gmail.com)
-
-</details>
