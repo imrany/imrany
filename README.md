@@ -1,7 +1,7 @@
 ![avatar](https://avatars.githubusercontent.com/u/57650911?v=4)
 
 # FullStack Web Developer
-  I'm [**Imran Matano**](https://imran-matano.web.app),
+  I'm [**Imran Matano**](https://portfolio-imran-matano.vercel.app/),
   I started my web development journey in 2019. I'm experienced fullstack web developer.  Currently, I've been freelancing and working on peoples' projects.
   I've worked on different projects, frontend, backend and fullstack projects
   
@@ -26,7 +26,7 @@ Download my <a href="https://github.com/imrany/imrany/blob/main/Resume.pdf" down
 
 # Social Media Links
 
-* View my [Portfolio Website](https://imran-matano.web.app)
+* View my [Portfolio](https://portfolio-imran-matano.vercel.app/)
 * Message me on [Whatsapp](https://wa.me/+254734720752)
 * Hire me <a href="tel:0734720752">Call</a>
 * Follow me on [Twitter](https://twitter.com/matano_imran)
