@@ -22,7 +22,7 @@ Download my <a href="https://github.com/imrany/imrany/blob/main/Resume.pdf" down
   |Reactjs      |Nodejs       |MongoDB    |
   |Tailwindcss|Expressjs    |postgresql      |
   |HTML5,CSS,JS |Firebase     |           |
-  |Vuejs        |Rust         |           |
+  |Vuejs        |actix-web (Rust)|           |
 
 # Social Media Links
 
