@@ -24,6 +24,11 @@ Download my <a href="https://github.com/imrany/imrany/blob/main/Resume.pdf" down
   |HTML5,CSS,JS |Firebase     |           |
   |Vuejs        |actix-web (Rust)|           |
 
+# Programming languages
+- JavaScript / Typescript
+- Rust
+- C
+
 # Social Media Links
 
 * View my [Portfolio](https://portfolio-imran-matano.vercel.app/)
