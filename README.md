@@ -25,8 +25,8 @@ Download my <a href="https://github.com/imrany/imrany/blob/main/Resume.pdf" down
   |Vuejs        |actix-web (Rust)|           |
 
 # Programming languages
-![Javascript](https://img.shields.io/badge/Javascript-blue?logo=javascript) / 
-![Typescript](https://img.shields.io/badge/Typescript-blue?logo=typescript&logoColor=blue)
+![Javascript](https://img.shields.io/badge/JS-Javascript-blue?logo=javascript) / 
+![Typescript](https://img.shields.io/badge/TS-Typescript-blue?logo=typescript&logoColor=blue)
 
-![Rust](https://img.shields.io/badge/Rust-blue?logo=rust)
-![C](https://img.shields.io/badge/C-blue?logo=C)
+![Rust](https://img.shields.io/badge/Rust-Memory_safety_language-orange?logo=rust)
+![C](https://img.shields.io/badge/C-C_programming-blue?logo=C)
