@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/-Email-E8453C?style=flat-square&logo=Gmail&logoColor=white)](mailto:imranmat254@gmail.com)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-green?style=flat-square&logo=Whatsapp&logoColor=white)](https://wa.me/+254734720752)
 ![Phone](https://img.shields.io/badge/Phone-+254734720752-blue)
-![GitHub followers](https://img.shields.io/github/followers/:imrany)
+![GitHub followers](https://img.shields.io/github/followers/imrany)
 
   I'm [**Imran Matano**](https://portfolio-imran-matano.vercel.app/),
   I started my web development journey in 2019. I'm experienced fullstack web developer.  Currently, I've been freelancing and working on peoples' projects.
