@@ -3,10 +3,11 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-1568BF?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/imranmatano)
 [![Twitter](https://img.shields.io/badge/-Twitter-1568BF?style=flat-square&logo=Twitter&logoColor=white)](https://www.twitter.com/matano_imran)
 [![Instagram](https://img.shields.io/badge/-Instagram-E8453C?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/imrany00)
-[![Imranmatano](https://img.shields.io/badge/-globle-136BFB?style=flat-square&logo=Imranmatano&logoColor=white)](https://imranmatano.vercel.com)
+[![Imranmatano](https://img.shields.io/badge/-Chrome-136BFB?style=flat-square&logo=Imranmatano&logoColor=white)](https://imranmatano.vercel.com)
 [![Email](https://img.shields.io/badge/-Email-E8453C?style=flat-square&logo=Gmail&logoColor=white)](mailto:imranmat254@gmail.com)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-green?style=flat-square&logo=Whatsapp&logoColor=white)](https://wa.me/+254734720752)
-[![Phone](https://img.shields.io/badge/-Phone-1568BF?style=flat-square&logo=254734720752&logoColor=white)](tel:0734720752)
+![Phone](https://img.shields.io/badge/Phone-+254734720752-blue)
+![GitHub followers](https://img.shields.io/github/followers/:imrany)
 
   I'm [**Imran Matano**](https://portfolio-imran-matano.vercel.app/),
   I started my web development journey in 2019. I'm experienced fullstack web developer.  Currently, I've been freelancing and working on peoples' projects.
