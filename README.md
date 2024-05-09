@@ -28,3 +28,8 @@ Download my <a href="https://github.com/imrany/imrany/blob/main/Resume.pdf" down
   |Tailwindcss|Expressjs    |postgresql      |
   |HTML5,CSS,JS |Firebase     |           |
   |Vuejs        |actix-web (Rust)|           |
+
+
+### Support / Donations
+
+<sub>Support my work by donating $5 here,<br/>[https://paypal-integration-ivby.onrender.com/pay/5](https://paypal-integration-ivby.onrender.com/pay/5)</sub>
