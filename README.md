@@ -21,15 +21,13 @@
 ![Typescript](https://img.shields.io/badge/TS-Typescript-green?logo=typescript&logoColor=blue)
 ![Javascript](https://img.shields.io/badge/JS-Javascript-white?logo=javascript)
 
-  ### Tech Stacks 📚
- <sub> 
+  ### Tech Stacks 📚 
   | FrontEnd    | Server-side | Databases |
   |-------------|-------------|-----------|
   |Reactjs      |Nodejs       |MongoDB    |
   |Tailwindcss  |Expressjs    |postgresql |
   |HTML5,CSS,JS |Firebase     |           |
   |Vuejs        |actix-web (Rust)|        |
-</sub>
 
 ### Support / Donations
 
