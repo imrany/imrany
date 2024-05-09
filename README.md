@@ -21,7 +21,7 @@ Download my <a href="https://github.com/imrany/imrany/blob/main/Resume.pdf" down
 ![Typescript](https://img.shields.io/badge/TS-Typescript-green?logo=typescript&logoColor=blue)
 ![Javascript](https://img.shields.io/badge/JS-Javascript-white?logo=javascript)
 
-  ### Tech Stacks 📚 
+  ## Tech Stacks 📚 
   | FrontEnd    | Server-side | Databases |
   |-------------|-------------|-----------|
   |Reactjs      |Nodejs       |MongoDB    |
@@ -29,6 +29,6 @@ Download my <a href="https://github.com/imrany/imrany/blob/main/Resume.pdf" down
   |HTML5,CSS,JS |Firebase     |           |
   |Vuejs        |actix-web (Rust)|        |
 
-### Support / Donations
+## Support / Donations
 
 Support my work by donating $5 here,<br/>[https://paypal-integration-ivby.onrender.com/pay/5](https://paypal-integration-ivby.onrender.com/pay/5)
