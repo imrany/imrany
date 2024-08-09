@@ -31,4 +31,7 @@ Download my <a href="https://github.com/imrany/imrany/blob/main/Resume.pdf" down
 
 ## Support / Donations
 
-Support my work by donating $5 here,<br/>[https://paypal-integration-ivby.onrender.com/pay/5](https://paypal-integration-ivby.onrender.com/pay/5)
+Support my work by donating,<br/>
+[![Paypal](https://img.shields.io/badge/-Paypal-1568BF?style=flat-square&logo=Paypal&logoColor=white)](https://www.linkedin.com/in/imranmatano)<br/>
+Paypal: imranmat254@gmail.com
+Mpesa: 0703733399
