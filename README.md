@@ -34,8 +34,8 @@ Download my <a href="https://github.com/imrany/imrany/blob/main/Resume.pdf" down
 Support my work by donating,<br/><br/>
 
 [![Paypal](https://img.shields.io/badge/-Paypal-1568BF?style=flat-square&logo=Paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=VRRJJUFTANYFL) <br/>
-Mpesa: 0703733399<br/>
-[click here](https://www.paypal.com/donate/?hosted_button_id=VRRJJUFTANYFL)
+[Donate here using Mpesa](https://contribute-to-opensorce.onrender.com/)<br/>
+[Donate here using Paypal](https://www.paypal.com/donate/?hosted_button_id=VRRJJUFTANYFL)
 
 
 #### If you would love to fund my projects or work with me, please contact me [imranmat254@gmail.com](mailto:imranmat254@gmail.com)
