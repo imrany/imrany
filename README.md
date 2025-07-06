@@ -65,9 +65,3 @@ If you find my projects helpful or would like to support my open-source contribu
 
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/imrany)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=VRRJJUFTANYFL)
-
----
-
-💡 **Fun Fact:** I believe that great code is like a good joke - if you have to explain it, it's probably not that great!
-
-⭐ **Thanks for visiting my profile!** Feel free to explore my repositories and don't forget to star the ones you find interesting!
