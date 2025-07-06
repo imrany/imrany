@@ -34,8 +34,6 @@ I'm a **Full Stack Developer** with a passion for creating innovative web soluti
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -53,17 +51,12 @@ I'm a **Full Stack Developer** with a passion for creating innovative web soluti
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imrany&theme=tokyonight" alt="imrany" />
 </div>
 
-## 📄 Resume
-
-📋 **[Download My Resume](https://portfolio-imran-matano.vercel.app/resume)** - Get a detailed overview of my experience and skills
-
 ## 🤝 Let's Connect
 
 I'm always open to discussing new opportunities, collaborations, or just having a chat about technology!
 
 - 📧 Email: [imranmat254@gmail.com](mailto:imranmat254@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/imranmatano](https://www.linkedin.com/in/imranmatano)
-- 🌐 Portfolio: [portfolio-imran-matano.vercel.app](https://portfolio-imran-matano.vercel.app/)
 - 📱 WhatsApp: [+254734720752](https://wa.me/+254734720752)
 
 ## 💖 Support My Work
@@ -72,7 +65,6 @@ If you find my projects helpful or would like to support my open-source contribu
 
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/imrany)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=VRRJJUFTANYFL)
-[![M-Pesa](https://img.shields.io/badge/M--Pesa-00A86B?style=for-the-badge&logo=safaricom&logoColor=white)](https://contribute-to-opensorce.onrender.com/)
 
 ---
 
