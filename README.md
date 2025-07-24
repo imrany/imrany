@@ -56,7 +56,6 @@ I'm always open to discussing new opportunities, collaborations, or just having 
 
 - 📧 Email: [imranmat254@gmail.com](mailto:imranmat254@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/imranmatano](https://www.linkedin.com/in/imranmatano)
-- 📱 WhatsApp: [+254734720752](https://wa.me/+254734720752)
 
 ## 💖 Support My Work
 
