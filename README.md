@@ -2,7 +2,7 @@
 
 A passionate **Full Stack Software Engineer** crafting robust and scalable web solutions.
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/imranmatano" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
