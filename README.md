@@ -10,33 +10,33 @@
 
 ## 🚀 About Me
 
-I'm a **Full Stack Developer** with a passion for creating innovative web solutions. My journey in web development began in 2019, and since then, I've been crafting digital experiences that make a difference.
+I am a **Full Stack Software Engineer** dedicated to building high-performance, scalable web applications. Since 2019, I have transitioned from crafting simple websites to engineering complex digital ecosystems. I thrive at the intersection of robust backend logic and intuitive frontend design.
 
-- 💻 **Currently:** Freelancing and working on exciting client projects
-- 🌱 **Learning:** Always exploring new technologies and best practices
-- 💡 **Focus:** Building scalable, user-friendly applications
-- 🎯 **Goal:** Contributing to open-source and helping businesses grow through technology
+- 🛠️ **Current Focus:** Architecting bespoke solutions for global clients & exploring systems programming.
+- 🦀 **Deep Dive:** Currently mastering **Rust** and **Go** for high-concurrency microservices.
+- ⚡ **Philosophy:** Code should be clean, maintainable, and built to scale.
+- 🌍 **Community:** Passionate about Open Source and mentoring aspiring developers.
 
 ## 🛠️ Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+### Core Languages & Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend
+### Backend & Systems
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Express.js](https://img.shields.io)
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### Databases & DevOps
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io)
+![Git](https://img.shields.io)
 
 ## 📊 GitHub Stats
 
@@ -45,21 +45,23 @@ I'm a **Full Stack Developer** with a passion for creating innovative web soluti
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrany&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-## 🔥 Streak Stats
+## 🔥 Activity
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imrany&theme=tokyonight" alt="imrany" />
 </div>
 
-## 🤝 Let's Connect
+## 🤝 Connect & Collaborate
 
-I'm always open to discussing new opportunities, collaborations, or just having a chat about technology!
+Whether you have a project in mind, a question about my tech stack, or just want to talk shop about the future of web dev—my inbox is always open.
 
-- 📧 Email: [imranmat254@gmail.com](mailto:imranmat254@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/imranmatano](https://www.linkedin.com/in/imranmatano)
+- 📧 **Direct:** [imranmat254@gmail.com](mailto:imranmat254@gmail.com)
+- 💼 **Professional:** [linkedin.com/in/imranmatano](https://www.linkedin.com/in/imranmatano)
+
+---
 
 ## 💖 Support My Work
 
-If you find my projects helpful or would like to support my open-source contributions:
+If my open-source tools have helped you, consider supporting my journey:
 
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/imrany)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=VRRJJUFTANYFL)
