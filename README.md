@@ -23,8 +23,6 @@ A passionate **Full Stack Software Engineer** crafting robust and scalable web s
   <img src="https://komarev.com/ghpvc/?username=imrany&color=brightgreen&label=Profile%20Views" alt="Profile Views">
 </p>
 
----
-
 ## 🚀 About Me
 
 I am a **Full Stack Software Engineer** dedicated to building high-performance, scalable web applications. Since 2019, I have transitioned from crafting simple websites to engineering complex digital ecosystems. I thrive at the intersection of robust backend logic and intuitive frontend design.
