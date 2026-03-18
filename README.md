@@ -9,7 +9,7 @@ A passionate **Full Stack Software Engineer** crafting robust and scalable web s
   <a href="https://www.twitter.com/matano_imran" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://www.instagram.com/imrany00" target="_blank">
+  <a href="https://www.instagram.com/its_imrany" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="mailto:imranmat254@gmail.com" target="_blank">
