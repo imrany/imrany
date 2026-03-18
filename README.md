@@ -17,7 +17,7 @@ A passionate **Full Stack Software Engineer** crafting robust and scalable web s
   </a>
 </p>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/github/followers/imrany?style=social&label=Follow" alt="GitHub followers">
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=imrany&color=brightgreen&label=Profile%20Views" alt="Profile Views">
@@ -34,7 +34,6 @@ I am a **Full Stack Software Engineer** dedicated to building high-performance, 
 - ⚡ **Philosophy:** My code should be clean, maintainable, secure, and built to scale for future growth.
 - 🌍 **Community:** Passionate about Open Source, contributing to impactful projects, and mentoring aspiring developers.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -63,7 +62,6 @@ I am a **Full Stack Software Engineer** dedicated to building high-performance, 
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) <!-- ADDED -->
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) <!-- ADDED -->
 
----
 
 ## 📊 GitHub Stats
 
@@ -72,14 +70,12 @@ I am a **Full Stack Software Engineer** dedicated to building high-performance, 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrany&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
----
 
 ## 🔥 Activity
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imrany&theme=tokyonight" alt="imrany" />
 </div>
 
----
 
 ## 🤝 Connect & Collaborate
 
@@ -87,8 +83,6 @@ Whether you have a project in mind, a question about my tech stack, or just want
 
 - 📧 **Direct:** [imranmat254@gmail.com](mailto:imranmat254@gmail.com)
 - 💼 **Professional:** [linkedin.com/in/imranmatano](https://www.linkedin.com/in/imranmatano)
-
----
 
 ## 💖 Support My Work
 
